@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos :earth_americas: </h1>
 
-### :book: 
-### :man_technologist:
+## :book: 
+## :man_technologist:
 ## :technologist:
 I am a Geo-Energy Engineer with expertise in energy transition, sustainable storage solutions, and the application of machine learning and data science. My background in Civil Engineering and Geo-Energy disciplines, combined with my enthusiasm for Python-driven solutions, positions me uniquely to contribute to impactful decisions in dynamic environments.
 
@@ -9,7 +9,7 @@ I am a Geo-Energy Engineer with expertise in energy transition, sustainable stor
 - 🌱 I’m currently learning **PowerBI**
 - 📫 How to reach me: **[Your LinkedIn Profile or Email]**
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left"> 
   <!-- Add or replace with your own tools and languages -->
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="[Jupyter Notebook Icon URL]" alt="Jupyter Notebook" width="40" height="40"/> </a>
