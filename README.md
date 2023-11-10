@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos :earth_americas: </h1>
+![Python in Space Exploration - NASA](https://learn.microsoft.com/en-us/training/achievements/introduction-python-space-exploration-nasa.svg)
 
-## 🚀 Who am I? 
-Hello! I'm an enthusiastic Geo-Energy Engineer from TUDelft with a Master's in Applied Earth Sciences. My journey began in Civil Engineering, where I delved into infrastructure projects, designing tunnels and other geotechnical structures. It was during this time that I discovered this fascinating world of data science. 📊
+
+## 🚀 About Me:
+
+I'm an enthusiastic Geo-Energy Engineer from TUDelft with a Master's in Applied Earth Sciences. My journey began in Civil Engineering, where I delved into infrastructure projects, designing tunnels and other geotechnical structures. It was during this time that I discovered this fascinating world of data science. 📊
 
 My passion for programming and data science led me to apply these skills in my master's thesis, where I used advanced machine learning to predict missing data from well logs. Think of me as a bridge between traditional engineering and the cutting-edge world of Python and data science. 🌉
 
-- 🔭 I’m currently working on enhancing my programming skills and developing projects that showcase my expertise. I'm particularly focused on deepening my knowledge in Python and exploring data visualization and analytics.
+- 🔭 I’m currently working on enhancing my programming skills and developing projects that showcase my expertise. I'm also working in my Github, where I'll be publishing my projects. I'm particularly focused on deepening my knowledge in Python and exploring data visualization and analytics.
 - 🌱 I've got an insatiable curiosity for all things related to the subsurface, sustainable energy solutions, business analytics. I'm on a mission to keep learning and growing in data science, visualization, and analytics. I’m currently learning **PowerBI**
 
 
-## Languages and Tools:
+## 🔨 Languages and Tools:
 <p align="left"> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <!-- Existing icons -->
