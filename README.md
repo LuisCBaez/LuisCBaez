@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos :earth_americas: </h1>
-![Python in Space Exploration - NASA](https://learn.microsoft.com/en-us/training/achievements/introduction-python-space-exploration-nasa.svg)
+<p align="center">
+  <img src="URL_OF_THE_IMAGE" alt="Python in Space Exploration - NASA" width="500"/>
+</p>
 
 
 ## 🚀 About Me:
