@@ -3,7 +3,7 @@
 ## 🚀 About Me:
 My journey began in Civil Engineering, diving into infrastructure projects and designing tunnels and other geotechnical structures. This is where I discovered the fascinating world of data science 📊.
 
-- 🔭 I’m currently enhancing my programming skills and developing projects to showcase my expertise. You will find these projects on my GitHub soon.
+- 🔭 I’m currently enhancing my programming skills and developing projects to showcase my expertise. These projects will be available on my GitHub soon.
 - 🌱 Deeply curious about subsurface technologies, sustainable energy, and business analytics. Currently learning **PowerBI**.
 - 🌐 Fluent in Spanish and English.
 
