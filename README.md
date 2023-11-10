@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos :earth_americas: </h1>
 
-## :book: About me: 
-I am a Geo-Energy Engineer with expertise in energy transition, sustainable storage solutions, and the application of machine learning and data science. My background in Civil Engineering and Geo-Energy disciplines, combined with my enthusiasm for Python-driven solutions, positions me uniquely to contribute to impactful decisions in dynamic environments.
+## 🚀 Who am I? 
+Hello! I'm an enthusiastic Geo-Energy Engineer from TUDelft with a Master's in Applied Earth Sciences. My journey began in Civil Engineering, where I delved into infrastructure projects, designing tunnels and other geotechnical structures. It was during this time that I discovered this fascinating world of data science. 📊
+
+My passion for programming and data science led me to apply these skills in my master's thesis, where I used advanced machine learning to predict missing data from well logs. Think of me as a bridge between traditional engineering and the cutting-edge world of Python and data science. 🌉
 
 - 🔭 I’m currently working on enhancing my programming skills and developing projects that showcase my expertise. I'm particularly focused on deepening my knowledge in Python and exploring data visualization and analytics.
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I've got an insatiable curiosity for all things related to the subsurface, sustainable energy solutions, business analytics. I'm on a mission to keep learning and growing in data science, visualization, and analytics. I’m currently learning **PowerBI**
 
 
 ## Languages and Tools:
 <p align="left"> 
-  <!-- Add or replace with your own tools and languages -->
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="[Python Icon URL]" alt="Python" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="[Jupyter Notebook Icon URL]" alt="Jupyter Notebook" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="[VS Code Icon URL]" alt="VS Code" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="[Pandas Icon URL]" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <!-- Existing icons -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
