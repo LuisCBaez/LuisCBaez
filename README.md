@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos :earth_americas: </h1>
 
-:book: 
-:man_technologist:
-:technologist:
+### :book: 
+### :man_technologist:
+## :technologist:
 I am a Geo-Energy Engineer with expertise in energy transition, sustainable storage solutions, and the application of machine learning and data science. My background in Civil Engineering and Geo-Energy disciplines, combined with my enthusiasm for Python-driven solutions, positions me uniquely to contribute to impactful decisions in dynamic environments.
 
 - 🔭 I’m currently working on enhancing my programming skills and developing projects that showcase my expertise. I'm particularly focused on deepening my knowledge in Python and exploring data visualization and analytics.
