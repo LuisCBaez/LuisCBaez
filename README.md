@@ -5,7 +5,7 @@
 ## 🚀 About Me:
 I am a Data Scientist passionate about leveraging machine learning and deep learning to solve real-world challenges. With an MSc. in Applied Earth Sciences from TU Delft, I have a solid foundation in data-driven problem-solving and a keen interest in advancing my expertise in artificial intelligence.
 
-- 🔭 **Current Focus:** Learning and Seeking opportunities to work on real projects involving machine learning, deep learning, and large language models (LLMs).
+- 🔭 **Current Focus:** Learning and seeking opportunities to work on real projects involving machine learning, deep learning, and large language models (LLMs).
 - 🌱 **Continuous Learning:** Expanding my knowledge in data science, deep learning, LLMs, and transformers to stay updated with the latest advancements in AI.
 - 💼 **Recent Work:** Recently focused on learning Power BI and completing machine learning and time series projects.
 - 🎯 **Goals:** Eager to move towards more advanced topics in AI and contribute to innovative solutions.
