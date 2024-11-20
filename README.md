@@ -3,11 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ln&label=Profile%20views&color=0e75b6&style=flat" alt="ln" /> </p>
 
 ## 🚀 About Me:
-My journey began in Civil Engineering, diving into infrastructure projects and designing tunnels and other geotechnical structures. This is where I discovered the fascinating world of data science 📊.
+I am a Data Scientist passionate about leveraging machine learning and deep learning to solve real-world challenges. With an MSc. in Applied Earth Sciences from TU Delft, I have a solid foundation in data-driven problem-solving and a keen interest in advancing my expertise in artificial intelligence.
 
-- 🔭 I’m currently enhancing my programming skills and developing projects to showcase my expertise. These projects will be available on my GitHub soon.
-- 🌱 Deeply curious about subsurface technologies, sustainable energy, and business analytics. Currently learning **PowerBI**.
-- 🌐 Fluent in Spanish and English.
+- 🔭 **Current Focus:** Learning and Seeking opportunities to work on real projects involving machine learning, deep learning, and large language models (LLMs).
+- 🌱 **Continuous Learning:** Expanding my knowledge in data science, deep learning, LLMs, and transformers to stay updated with the latest advancements in AI.
+- 💼 **Recent Work:** Recently focused on learning Power BI and completing machine learning and time series projects.
+- 🎯 **Goals:** Eager to move towards more advanced topics in AI and contribute to innovative solutions.
+- 🌐 **Languages:** English (Fluent), Spanish (Native)
 
 ## 🔨 Languages and Tools:
 <p align="left"> 
@@ -25,7 +27,4 @@ My journey began in Civil Engineering, diving into infrastructure projects and d
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-
-
 
