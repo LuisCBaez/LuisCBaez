@@ -47,7 +47,7 @@ I thrive in interdisciplinary collaboration, leveraging data to solve **real-wor
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills
 ### 🔹 Programming & Data Science
 - Python (pandas, NumPy, SciPy, scikit-learn, TensorFlow, PyTorch, Optuna, LightGBM, XGBoost)
 - SQL, Power BI, Jupyter Notebooks, Streamlit
