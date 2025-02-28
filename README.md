@@ -61,23 +61,25 @@ I thrive in interdisciplinary collaboration, leveraging data to solve **real-wor
 
 ---
 
-## 📫 Get in Touch
-
-- **GitHub:** [github.com/LuisCBaez](https://github.com/LuisCBaez)
-- **LinkedIn:** [linkedin.com/in/luiscbaezl](https://www.linkedin.com/in/luiscbaezl/)
-
----
-
 ## ⚡ Current Focus
 
-I'm currently working on my **Machine Learning and Deep Learning repositories**, refining my understanding of deep learning algorithms before moving into **transformers and large language models**. Alongside this, I'm actively **learning and applying Git** in my projects.  
+I'm currently working on my **Machine Learning and Deep Learning repositories**, refining my understanding of deep learning algorithms before transitioning into transformers and large language models.
 
-My next step is to transition into **cloud platforms, MLOps, LLMOps, and model deployment & monitoring** to build scalable and production-ready AI solutions.
+At the same time, I am **learning and applying Git** best practices in my projects to enhance version control and collaboration.
+
+My next step is to deepen my expertise in **cloud platforms, MLOps, LLMOps, and model deployment & monitoring** to build scalable, production-ready AI solutions.
 
 ---
 
 ### 🔥 Final Thoughts
 I strongly believe that **continuous learning and hands-on practice** are the key drivers of success in AI and Data Science. Every project I work on is a **stepping stone towards mastering AI techniques and building impactful solutions**.
 
+---
 
+## 📫 Get in Touch
+
+- **GitHub:** [github.com/LuisCBaez](https://github.com/LuisCBaez)
+- **LinkedIn:** [linkedin.com/in/luiscbaezl](https://www.linkedin.com/in/luiscbaezl/)
+
+---
 
