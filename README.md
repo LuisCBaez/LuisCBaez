@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luis Ca  
-**AI/ML Engineer | Forecasting · MLOps · Learning LLMOps & RAG Systems**
+**ML Engineer | Forecasting · MLOps · Learning LLMOps & RAG Systems**
 
 From **engineering the subsurface** (tunnels, foundations, energy systems) ⛰️
 to **engineering AI/ML systems in the cloud** ☁️
