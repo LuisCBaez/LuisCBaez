@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luis Ca  
-**ML Engineer | Forecasting · MLOps · Learning LLMOps & RAG Systems**
+**ML Engineer | Forecasting · MLOps**
 
 From **engineering the subsurface** (tunnels, foundations, energy systems) ⛰️
 to **engineering AI/ML systems in the cloud** ☁️
@@ -13,8 +13,7 @@ During my MSc in  **Applied Earth Sciences (Geo-Energy, TU Delft)**, I explored 
 
 That journey trained me to **analyze complex systems under uncertainty** — skills I now apply to **AI/ML**, where I design:
 - 📈 **Forecasting & Predictive Modeling** — Construction, Energy, Pharma, Retail, Finance  
-- ⚙️ **MLOps** — Databricks workflows, MLflow tracking & registry, DVC, CI/CD, deployment, monitoring  
-- 🤖 **LLMOps & RAG (learning)** — studying retrieval, evaluation, routing, and observability
+- ⚙️ **MLOps** — Databricks workflows, MLflow tracking & registry, CI/CD, deployment, monitoring  
 
 ✨ My goal: **Build robust, production-ready AI/ML systems — from raw data to monitored deployment.**
 
@@ -30,17 +29,6 @@ That journey trained me to **analyze complex systems under uncertainty** — ski
 [🔗 Repository](https://github.com/LuisCBaez/well-log-ml)  
 - Developed a **framework** for geothermal property prediction using Ridge Regression, Random Forest, LightGBM, and XGBoost.  
 - Incorporated **Optuna** for hyperparameter optimization and systematic evaluation.  
-
-### 📌 M5 Forecasting (Course Project) 📈  
-*(in progress, Maven — MLOps with Databricks)*  
-- Monthly demand forecasting at department level.  
-- Baselines (ETS, ARIMA, Theta) vs NHITS global models.  
-- Databricks workflows + MLflow tracking.  
-
-### 📌 RAG Mini-System (Learning Project) 🤖  
-*(in progress, Maven — RAG Playbook)*  
-- Prototype for document ingestion & retrieval.  
-- Exploring retrieval optimization, evaluation metrics, observability.
 
 ### 📌 Data Science Learning Journey 📚  
 [🔗 Repository](https://github.com/LuisCBaez/Data-Science-Learning-Journey)  
@@ -66,34 +54,30 @@ That journey trained me to **analyze complex systems under uncertainty** — ski
 - **Explainability**: SHAP
 
 ### ⚙️ MLOps & Engineering
-- Databricks (Workflows, Delta, MLflow integration)  
-- MLflow (tracking, registry, deployment) · DVC  
+- Databricks
+- MLflow · DVC  
 - Docker · FastAPI · Streamlit  
 
 ### 🔗 Version Control & CI/CD
 - Git · GitHub · GitHub Actions  
-- uv · pip (dependency & environment management)  
+- uv · pip · anaconda (dependency & environment management)  
 
 ### 📊 Analytics & Visualization
-- matplotlib · seaborn · Plotly · Power BI  
+- matplotlib · seaborn · Plotly · Power BI · Streamlit
 
 ### 🖥️ **Shell & Tooling**  
 - Bash / Shell · CLI · WSL2
-
-### 🤖 **LLMOps (Learning)**  
 
 ---
 
 ## 🎯 Current Focus
 - Delivering **Databricks + MLflow** forecasting pipelines  
-- Building a small **FastAPI + Docker** forecasting API  
-- Learning & prototyping **RAG** (retrieval, evaluation, observability)  
-- Publishing **production-like repositories** with CI/CD, clean READMEs, and diagrams
+- MLOps
 
 ---
 
 ## 🔬 Domain Experience
-- 🏗️ **Civil & Geotechnics Engineering** → tunnels, foundations, excavation optimizatioN
+- 🏗️ **Civil & Geotechnics Engineering** → tunnels, foundations, excavation optimization
 - 🌍 **Energy & Earth Sciences** → geothermal, hydrogen, CO₂ storage, oil & gas systems  
 - 📈 **Forecasting & AI/ML** → pharma, finance, supply & demand (in data / modeling contexts)
 
@@ -108,10 +92,11 @@ That journey trained me to **analyze complex systems under uncertainty** — ski
 - Stanford University — Machine Learning (2019)  
 - NUS — Data Science for Construction, Architecture & Engineering (2020)  
 - MITx — Probability: The Science of Uncertainty and Data (2020)
-- **Ongoing**: Maven (MLOps, RAG Playbook), ML.School (Production ML Systems)  
-  - Maven: End-to-End MLOps with Databricks (deployment, serving, monitoring)  
-  - Maven: RAG Playbook / Systematically Improving RAG Applications (retrieval optimization, evaluation, routing)  
-  - ML.School: Building AI/ML Systems That Don’t Suck (production ML systems) 
+
+- **Ongoing**:
+  - [Maven](https://maven.com/cauchy/mlops-with-databricks): End-to-End MLOps with Databricks (deployment, serving, monitoring) 
+  - [Maven](https://maven.com/applied-llms/rag-playbook): Systematically Improving RAG Applications (retrieval optimization, evaluation, routing)  
+  - [ML.School](https://www.ml.school/): Building AI/ML Systems That Don’t Suck (production ML systems) 
 
 ---
 
