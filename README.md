@@ -2,11 +2,13 @@
 
 **Machine Learning Engineer**
 
+Machine Learning Engineer with an engineering background, focused on forecasting, applied ML, and production-oriented ML workflows for real operational and scientific domains.
+
 I build forecasting and machine-learning systems for real operational settings, where the hard part is rarely just choosing a model. The harder work is understanding the decision being supported, preparing unreliable data, designing evaluation around real failure modes, and making the workflow reproducible enough for others to trust and operate.
 
 My background is in civil, geotechnical, and geo-energy engineering. Before moving into ML, I worked with physical systems where uncertainty, incomplete measurements, and practical constraints were part of the job. That experience still shapes how I build models: start from the problem, test simple baselines, look for leakage and bias, and add complexity only when it improves the decision.
 
-My current focus is forecasting and production-oriented ML: time-aware validation, reproducible pipelines, experiment tracking, model comparison, documentation, and handover.
+My current focus is forecasting and production-oriented ML: time-aware validation, reproducible pipelines, experiment tracking, model comparison, clear documentation, and user enablement.
 
 I am especially interested in applied ML/AI systems for industrial, energy, life-sciences, scientific, and other data-intensive domains
 
@@ -77,7 +79,7 @@ Published TU Delft research on MICE-based well-log imputation (XGBoost, Random F
 - 🎓 **BSc Civil Engineering** — Pontificia Universidad Javeriana
 - 💻 2019–2021: self-directed transition into ML (Stanford ML, MITx Probability, IBM Data Science), continued while relocating internationally, before the MSc at TU Delft
 - Civil & geotechnical engineering (tunnels, foundations, slopes, excavations) before moving into applied ML across forecasting, geoscience, and energy data
-- Spanish (native) · English (professional) · German (in progress)
+- Spanish (native) · English (professional) · German (A1.2, actively developing)
 
 ---
 
