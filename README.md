@@ -18,16 +18,27 @@ I am especially interested in applied ML/AI systems for industrial, energy, life
 
 ### [tetouan-power-mlops](https://github.com/LuisCBaez/tetouan-power-mlops) — flagship · in active development
 
-End-to-end electricity-consumption forecasting on public 10-minute data from Tetouan, Morocco — built as a production-oriented MLOps project, not a notebook.
+End-to-end MLOps system for power-consumption prediction on public 10-minute data from Tetouan, Morocco — built as a production-oriented project, not a notebook.
 
-- Time-aware splitting and leakage-safe evaluation
 - Reusable, tested Python package with typed (Pydantic) configuration
 - `pytest`, Ruff, and pre-commit, with PR-gated GitHub Actions CI on a protected `main`
-- Databricks workflows with Unity Catalog and MLflow experiment tracking
-- Databricks Asset Bundles for deployment-oriented structure
+- Databricks Asset Bundle with Unity Catalog tables and MLflow experiment tracking; pipeline scripts executed on Databricks
 - **Next:** feature engineering, batch inference, serving, monitoring, and retraining
 
-`Python` · `LightGBM` · `Databricks` · `MLflow` · `Unity Catalog` · `AWS S3/IAM` · `pytest` · `GitHub Actions`
+`Python` | `LightGBM` | `Databricks` | `MLflow` | `Unity Catalog` | `AWS S3/IAM` | `pytest` | `GitHub Actions`
+
+### [demand-forecasting-system-design](https://github.com/LuisCBaez/demand-forecasting-system-design) — demand-planning system design
+
+Methodology case study on designing, evaluating, and evolving a transparent monthly demand-forecasting workflow. Documents architecture, demand profiling, profile-aware model competition, chronological evaluation, and handover — using diagrams and pseudocode because client code and data cannot be shared.
+
+- Standardized business inputs into monthly modeling histories and reporting datasets
+- Profile-aware competition across baselines, statistical, intermittent-demand, and LightGBM methods
+- Time-aware validation, MLflow tracking, forecast guardrails, and aggregate-to-detail allocation
+- Retrospective evaluation across historical forecast origins and multiple horizons
+
+Client code, data, configurations, identifying details, and results remain private.
+
+`Python` | `Databricks` | `MLflow` | `StatsForecast` | `MLForecast` | `LightGBM` | `Optuna` | `Power BI` | `Streamlit`
 
 ### [well-log-ml](https://github.com/LuisCBaez/well-log-ml) — applied geoscience ML
 
@@ -38,17 +49,13 @@ Supporting ML framework for the machine-learning/property-prediction part of a T
 - Used well-based validation with GroupKFold to reduce leakage risk in a limited-well dataset
 - Documented residuals, bias, feature importance, and limits around small data and no external blind-well test
 
-`Python` · `scikit-learn` · `LightGBM` · `XGBoost` · `Optuna`
-
-### [applied-time-series](https://github.com/LuisCBaez/applied-time-series) — forecasting methods
-
-End-to-end forecasting project comparing seasonal-naïve, AutoARIMA, and feature-based LightGBM (MLForecast) under chronological holdout evaluation across error and bias metrics.
-
-`StatsForecast` · `MLForecast` · `LightGBM`
+`Python` | `scikit-learn` | `LightGBM` | `XGBoost` | `Optuna`
 
 ### [MSc thesis — predicting missing well logs](https://github.com/LuisCBaez/Predicting_Well_logs_MICE_TUDelft_Msc_Thesis)
 
 Published TU Delft research on MICE-based well-log imputation (XGBoost, Random Forest, KNN, Bayesian Ridge) across geological datasets, documenting how data quality and geological heterogeneity drive imputation accuracy. [Read it on the TU Delft repository.](https://repository.tudelft.nl/record/uuid:873cc936-d799-40c6-97d5-b168012ad090)
+
+`Python` | `scikit-learn` | `XGBoost` | `Random Forest` | `KNN` | `Bayesian Ridge` | `MICE`
 
 ---
 
@@ -58,18 +65,10 @@ Published TU Delft research on MICE-based well-log imputation (XGBoost, Random F
 |---|---|
 | Languages | Python, SQL, Bash |
 | ML & forecasting | scikit-learn, LightGBM, XGBoost, statsmodels, StatsForecast, MLForecast |
-| ML systems | Databricks, MLflow, Delta Lake, Unity Catalog, AWS S3/IAM |
+| ML systems | Databricks, MLflow, Delta Lake, Unity Catalog|
 | Engineering | pytest, Ruff, pre-commit, Pydantic, uv, GitHub Actions |
 | Delivery | Streamlit, Power BI |
 | Learning now | PyTorch, deep-learning forecasting |
-
----
-
-## Currently
-
-- Extending `tetouan-power-mlops` toward serving, monitoring, and retraining
-- Deepening time-series forecasting and deep-learning foundations
-- Learning German
 
 ---
 
@@ -85,7 +84,7 @@ Published TU Delft research on MICE-based well-log imputation (XGBoost, Random F
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/luiscbaezl/) · [Repositories](https://github.com/LuisCBaez?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/luiscbaezl/) | [Repositories](https://github.com/LuisCBaez?tab=repositories)
 
 ---
 
